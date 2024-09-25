@@ -6,7 +6,7 @@ public class FunctionFactorial5 {
            f = f * i; 
         }
         return f;
-    }
+    } 
 
     public static void main(String[] args) {
         System.out.println( factorial(7));
